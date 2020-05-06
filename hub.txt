@@ -1,0 +1,5 @@
+hub L1
+shortLabel L1
+longLabel L1
+genomesFile genomes.txt
+email huynh@ucdavis.edu
