@@ -1,0 +1,7 @@
+track hg38.L1.data
+type bigBed 3
+bigDataUrl myBigbed.bb
+shortLabel hg38.L1.data
+longLabel H1 L1
+itemRgb on
+visibility dense
