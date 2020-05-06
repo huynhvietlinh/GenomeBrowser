@@ -1,6 +1,6 @@
 track hg38.L1.data
 type bigBed 3
-bigDataUrl myBigbed.bb
+bigDataUrl myBigBed.bb
 shortLabel hg38.L1.data
 longLabel H1 L1
 itemRgb on
