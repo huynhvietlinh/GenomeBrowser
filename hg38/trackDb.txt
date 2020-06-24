@@ -1,7 +1,7 @@
-track hg38.L1.data
-type bigBed 3
-bigDataUrl myBigBed.bb
-shortLabel hg38.L1.data
-longLabel H1 L1
+track hg38.H1.10kb.eig
+type bigWig
+bigDataUrl H1.10kb.eigs.bw
+shortLabel H1.eig
+longLabel hh38.H1.10kb.eig
 itemRgb on
 visibility dense
