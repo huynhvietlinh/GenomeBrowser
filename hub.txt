@@ -1,5 +1,5 @@
-hub L1
-shortLabel L1
-longLabel L1
+hub L1-analysis
+shortLabel L1-analysis
+longLabel L1-analysis
 genomesFile genomes.txt
 email huynh@ucdavis.edu
