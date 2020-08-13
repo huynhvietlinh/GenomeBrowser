@@ -10,12 +10,74 @@ bigDataUrl HFF.10kb.eigs.bw
 shortLabel HFF.eig
 longLabel hg38.HFF.10kb.eig
 
-H1_DNase_ENCFF562JBT.bigBed
-H1_K27me3_ENCFF694OVK.bigBed
-H1_K4me3_ENCFF250GYF.bigBed
-H1_K9me3_ENCFF916EDM.bigBed
-H1_PolII_ENCFF737COK.bigBed
-IMR90_ATAC_repPeak_ENCFF334RKH.bigBed
-IMR90_K27me3_repPeak_ENCFF382RZC.bigBed
-IMR90_K4me3_repPeak_ENCFF762PGG.bigBed
-IMR90_K9me3_repPeak_ENCFF213FQA.bigBed
+track H1_DNase
+type bigBed 3
+bigDataUrl H1_DNase_ENCFF562JBT.bigBed
+shortLabel H1_DNase
+longLabel H1_DNase_ENCFF562JBT
+itemRgb on
+visibility dense
+
+track H1_K27me3
+type bigBed 3
+bigDataUrl H1_K27me3_ENCFF694OVK.bigBed
+shortLabel H1_K27me3
+longLabel H1_K27me3_ENCFF694OVK
+itemRgb on
+visibility dense
+
+track H1_K4me3
+type bigBed 3
+bigDataUrl H1_K4me3_ENCFF250GYF.bigBed
+shortLabel H1_K4me3
+longLabel H1_K4me3_ENCFF250GYF
+itemRgb on
+visibility dense
+
+track H1_K9me3
+type bigBed 3
+bigDataUrl H1_K9me3_ENCFF916EDM.bigBed 
+shortLabel H1_K9me3
+longLabel H1_K9me3_ENCFF916EDM
+itemRgb on
+visibility dense
+
+track H1_PolII
+type bigBed 3
+bigDataUrl H1_PolII_ENCFF737COK.bigBed 
+shortLabel H1_PolII
+longLabel H1_PolII_ENCFF737COK
+itemRgb on
+visibility dense
+
+track IMR90_ATAC
+type bigBed 3
+bigDataUrl IMR90_ATAC_repPeak_ENCFF334RKH.bigBed 
+shortLabel IMR90_ATAC 
+longLabel IMR90_ATAC_ENCFF334RKH
+itemRgb on
+visibility dense
+
+track IMR90_K27me3
+type bigBed 3
+bigDataUrl IMR90_K27me3_repPeak_ENCFF382RZC.bigBed 
+shortLabel IMR90_K27me3
+longLabel IMR90_K27me3_ENCFF382RZC
+itemRgb on
+visibility dense
+
+track IMR90_K4me3
+type bigBed 3
+bigDataUrl IMR90_K4me3_repPeak_ENCFF762PGG.bigBed
+shortLabel IMR90_K4me3
+longLabel IMR90_K4me3_ENCFF762PGG
+itemRgb on
+visibility dense
+
+track IMR90_K9me3
+type bigBed 3
+bigDataUrl IMR90_K9me3_repPeak_ENCFF213FQA.bigBed 
+shortLabel IMR90_K9me3 
+longLabel IMR90_K9me3_ENCFF213FQA
+itemRgb on
+visibility dense
