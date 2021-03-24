@@ -1,1 +1,15 @@
+track Med1-ChIP-seq-peak-Esrrb-Control
+type bigBed 6
+bigDataUrl Med1_Esrrb_Ctrl.peak.bb 
+shortLabel Med1-peak-ctrl
+longLabel Med1 ChIP-seq peaks (Esrrb control)
+itemRgb on
+visibility dense
 
+track Med1-ChIP-seq-peak-Esrrb-KD
+type bigBed 6
+bigDataUrl Med1_Esrrb_KD.peak.bb 
+shortLabel Med1-peak-esrrb-KD
+longLabel Med1 ChIP-seq peaks (Esrrb KD)
+itemRgb on
+visibility dense
